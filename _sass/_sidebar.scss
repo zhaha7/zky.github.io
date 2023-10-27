@@ -8,8 +8,7 @@
 
 .sidebar {
    width: 50%; /* 设置为页面宽度的25% */
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  
 
   @include clearfix();
   margin-bottom: 1em;
