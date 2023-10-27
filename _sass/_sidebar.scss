@@ -52,6 +52,7 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  width: 50%; /* 设置为页面宽度的25% */
 
   @include breakpoint($large) {
     position: relative;
